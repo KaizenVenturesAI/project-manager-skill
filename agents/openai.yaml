@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kaizen Project Manager"
+  short_description: "Manage client installs and Chief of Staff onboarding"
+  default_prompt: "Use $kaizen-project-manager to continue this project through verified milestones and a useful handoff."
