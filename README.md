@@ -1,8 +1,8 @@
 # Kaizen Ventures Project Manager Skill
 
-A Kaizen Ventures-branded adaptation of Alex Finn's original project-manager skill for managing software, app, and game projects from an agreed vision through small milestones, implementation handoffs, testing of exact builds, and fix-and-retest loops. It keeps progress, decisions, screenshots, and versioned QA evidence in the requested private project Space.
+A Kaizen Ventures project-management skill for managing software, app, and game projects from an agreed vision through small milestones, implementation handoffs, testing of exact builds, and fix-and-retest loops. It keeps progress, decisions, screenshots, and versioned QA evidence in the requested private project Space.
 
-This adaptation preserves the original workflow and is maintained by [Kaizen Ventures AI](https://www.kaizenventuresai.com). Upstream source and attribution: [finna/project-manager-skill](https://github.com/finna/project-manager-skill).
+Maintained by [Kaizen Ventures AI](https://www.kaizenventuresai.com).
 
 ## Install and use
 
