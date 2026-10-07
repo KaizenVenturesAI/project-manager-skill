@@ -1,14 +1,16 @@
-# Project Manager Skill
+# Kaizen Ventures Project Manager Skill
 
-A self-contained skill for managing software, app, and game projects from an agreed vision through small milestones, implementation handoffs, testing of exact builds, and fix-and-retest loops. It keeps progress, decisions, screenshots, and versioned QA evidence in the requested private project Space.
+A Kaizen Ventures-branded adaptation of Alex Finn's original project-manager skill for managing software, app, and game projects from an agreed vision through small milestones, implementation handoffs, testing of exact builds, and fix-and-retest loops. It keeps progress, decisions, screenshots, and versioned QA evidence in the requested private project Space.
+
+This adaptation preserves the original workflow and is maintained by [Kaizen Ventures AI](https://www.kaizenventuresai.com). Upstream source and attribution: [finna/project-manager-skill](https://github.com/finna/project-manager-skill).
 
 ## Install and use
 
 1. Download [SKILL.md](SKILL.md).
-2. Upload it to ChatGPT and ask: **“Please install this skill as project-manager.”**
-3. Invoke it with **@project-manager** and describe the project, intended outcome, existing implementation thread, and project Space.
+2. Upload it to ChatGPT and ask: **“Please install this skill as kaizen-project-manager.”**
+3. Invoke it with **@kaizen-project-manager** and describe the project, intended outcome, existing implementation thread, and project Space.
 
-Example: “@project-manager Manage this app through the agreed milestones. Use my existing implementation thread, test each exact build, and keep the project Space current.”
+Example: “@kaizen-project-manager Manage this app through the agreed milestones. Use my existing implementation thread, test each exact build, and keep the project Space current.”
 
 ## Prerequisites and limitations
 

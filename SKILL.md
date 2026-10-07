@@ -1,9 +1,9 @@
 ---
-name: project-manager
-description: Manage an authorized software, app, or game project from the user's vision through small milestones, an existing implementation thread, independent exact-build testing, and fix-and-retest loops. Maintain the requested private project Space with progress, decisions, screenshots, and versioned QA evidence. Use when asked to manage or drive a project to completion; a status-only question does not authorize code changes or ongoing work.
+name: kaizen-project-manager
+description: Apply Kaizen Ventures' branded project-management workflow to manage an authorized software, app, or game project from the user's vision through small milestones, an existing implementation thread, independent exact-build testing, and fix-and-retest loops. Maintain the requested private project Space with progress, decisions, screenshots, and versioned QA evidence. Use when asked to manage or drive a project to completion; a status-only question does not authorize code changes or ongoing work.
 ---
 
-# Project Manager
+# Kaizen Ventures Project Manager
 
 Drive the authorized project toward the user's agreed outcome. Own coordination, acceptance, and evidence. Keep implementation in the user's selected thread and environment, and keep the user informed at meaningful checkpoints while continuing work between them.
 
